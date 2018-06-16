@@ -1,0 +1,46 @@
+! font
+xterm*faceName: Liberation Mono
+xterm*faceSize: 11
+
+! special
+*.foreground:   #d7d0c7
+*.background:   #2e2e2e
+*.cursorColor:  #d7d0c7
+
+! black
+*.color0:       #101010
+*.color8:       #404040
+
+! red
+*.color1:       #e84f4f
+*.color9:       #d23d3d
+
+! green
+*.color2:       #2ecc71
+*.color10:      #27ae60
+
+! yellow
+*.color3:       #f1c40f
+*.color11:      #f39c12
+
+! blue
+*.color4:       #3498db
+*.color12:      #2980b9
+
+! magenta
+*.color5:       #9b64fb
+*.color13:      #8542ff
+
+! cyan
+*.color6:       #1abc9c
+*.color14:      #16a085
+
+! white
+*.color7:       #dddddd
+*.color15:      #dddddd
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+compton -b &
+nitrogen --restore &
+lxsession &
+tint2 &
+volumeicon &
+quicktile --daemonize &
+conky -c ~/.config/conky/conky.conf &
